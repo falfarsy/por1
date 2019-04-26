@@ -1,0 +1,7 @@
+﻿This illusion consists of the Brain as seeing the empty space in the middle
+as brighter than the background which causes an inverted triangle with a black
+outline to appear along with a normal ‘white’ triangle. Of course, these shapes
+don’t actually exist. This can be explained using Gestalt's Law of closure.
+This states that objects that are grouped together tend to be seen as being
+part of a whole. We tend to ignore gaps and perceive the contour lines in
+order to make the image appear as a cohesive whole.
